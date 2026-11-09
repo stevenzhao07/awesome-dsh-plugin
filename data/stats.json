@@ -1,9 +1,9 @@
 {
-  "snapshot_date": "2026-10-25",
+  "snapshot_date": "2026-10-26",
   "last_review_merge": "2026-10-26",
-  "repositories": 20034,
-  "languages": 38,
-  "licenses": 18248,
-  "active": 19802,
+  "repositories": 20003,
+  "languages": 39,
+  "licenses": 18222,
+  "active": 19767,
   "volumes": 13
 }
