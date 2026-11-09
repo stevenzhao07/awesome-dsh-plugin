@@ -339,14 +339,12 @@ mindmap
 
 | 项目 | 简介 | 创建日期 |
 | --- | --- | --- |
-| [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | DSH 破甲插件：九片按需叶子 + 分级 prefill + 拒答阶梯 + 请求体级整形，零宿主补丁，1,597 tok 常驻。 | 2026-10-25 |
 | [lakeofsky347/yingliu-video-studio](https://github.com/lakeofsky347/yingliu-video-studio) | DSH 视频工作台：图文分镜、前端代码生成与编辑、本地 MP4 导出。 | 2026-10-05 |
 | [Minglink/wanxiang-knowledge](https://github.com/Minglink/wanxiang-knowledge) | 万象知识库：一键把会话存入本地知识库，让 DSH 与你一起无限进步。 | 2026-10-24 |
 | [huanlin-labs/dsh-isolation-gate](https://github.com/huanlin-labs/dsh-isolation-gate) | 目录级门禁：per-directory deny/read/full、名册分组、会话覆盖与审计日志，默认禁用。 | 2026-10-21 |
 | [SpaceRelay/dsh-subagent-control](https://github.com/SpaceRelay/dsh-subagent-control) | 三个工具让任意 agent（包括队友）列出、转向、停掉自己启动的子代理。 | 2026-10-25 |
 | [functy23/dsh-workbuddy-panel](https://github.com/functy23/dsh-workbuddy-panel) | 优化版 WorkBuddy2API 网关 + DSH 原生面板：UA 与设备指纹对齐官方桌面端，内核可独立更新。 | 2026-10-24 |
 | [yuxiaole-bili/dsh-apk-vm](https://github.com/yuxiaole-bili/dsh-apk-vm) | 在本地 rooted AOSP 虚拟机里预览调试 Android APK：60fps H.264 串流、拖拽安装、UIAutomator 自动化、每 Agent 独立 VM。 | 2026-10-25 |
-| [Murphy2000-cyk/dsh-asr-xiaomi](https://github.com/Murphy2000-cyk/dsh-asr-xiaomi) | 基于小米 MiMo 云端识别给 DeepSeek Harness 加语音输入。 | 2026-10-25 |
 
 ## 📣 作者自荐
 
