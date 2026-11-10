@@ -415,4 +415,3 @@ mindmap
 
 本仓库同时维护符合 DSH format-1 的社区索引及生成与排除报告，供个人站点的固定 HTTPS 路由分发。接入地址、生成和更新规则见 [官方索引说明](scripts/host-market/README.md)。现有 market-v2 与 npm feed 保持独立。
 
-| negctl | https://github.com/stevenzhao07/lgd-negctl-does-not-exist-20261110 | negative control |
